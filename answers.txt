@@ -1,3 +1,10 @@
 Q1: Why might we consider using Git?
 
 Answer: Probably for better storage of our code, and for understanding how to manage/edit large codebases for assignments and in the future depending on what field we go into
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: As a Geospatial Data Science major, I'd say GIS is a pretty applicable field. Theres a lot of locational data that is used. For example, lets say we want to analyze population growth
+in regions surrounding College Park. Taking temporal data from the past 50 years, we can track the average change in population for surrounding towns every 10 years, visualizing the data in 
+graphs that highlight which towns increase in population, which decrease, and where a general trend in movement is.
