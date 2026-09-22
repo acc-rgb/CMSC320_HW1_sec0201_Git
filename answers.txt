@@ -13,3 +13,7 @@ graphs that highlight which towns increase in population, which decrease, and wh
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: With merging, the original code is saved as a part of the chain where as rebasing rewrites that past chain with my own changes being ontop of that chain (or branch for clarity).
+
+Q4: What are you looking forward to this semester?
+
+Answer: Finishing up college and maybe having some free time for myself. Graduating a semester early is nice, but I still have to get through it!
